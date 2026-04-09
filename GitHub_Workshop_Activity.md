@@ -39,3 +39,5 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 -   [Happy git with R](https://happygitwithr.com/)
 -   [The basics of markdown syntax](https://rmarkdown.rstudio.com/authoring_basics.html)
+
+[ggplot cheat sheet](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)
