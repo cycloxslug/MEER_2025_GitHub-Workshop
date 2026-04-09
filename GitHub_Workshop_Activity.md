@@ -16,7 +16,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 1.** Would you rather be able to fly or breathe underwater?
 
-*Answer:*
+*Answer:* Breath underwater
 
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
 
