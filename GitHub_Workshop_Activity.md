@@ -35,6 +35,8 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 *Answer:* My barn
 
+**Question 6.** What is your favorite fish?
+
 **Other resources**
 
 -   [Happy git with R](https://happygitwithr.com/)
