@@ -33,6 +33,8 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 5.** What is your favorite place in Michigan?
 
+*Answer:* My barn
+
 **Other resources**
 
 -   [Happy git with R](https://happygitwithr.com/)
